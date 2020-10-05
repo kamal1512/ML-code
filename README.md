@@ -1,2 +1,2 @@
 # Accuracy
-Check here for code, Algorithms Used, Hyperparameter-tuning and Performance Metric.
+Check here for Code, Algorithms Used, Hyperparameter-tuning and Performance Metric.
