@@ -12,5 +12,4 @@ Below table talks about Algorithms performance based on Bag Of Words vectorizer.
 
 Below table talks about Algorithms performance based on TF-IDF vectorizer.
 ![TFIDF table](https://user-images.githubusercontent.com/50442970/100377288-fb744380-3036-11eb-93f3-cb90f1cc7024.png)
-..
-..
+
